@@ -1,0 +1,12 @@
+import React from 'react';
+import PushupCounter from './components/PushupCounter';
+
+function App() {
+  return (
+    <div className="App">
+      <PushupCounter />
+    </div>
+  );
+}
+
+export default App;
